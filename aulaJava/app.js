@@ -1,6 +1,6 @@
 //Extensão Quokka
 
-//alert("Hello World") ou /* e fecha  /*
+//alert("Hello World") ou /* e fecha  */
 
 console.log("Teste")
 console.error("ps")
@@ -26,4 +26,13 @@ let nome1 = prompt("QUal seu nome: ")
 let idade1 = prompt("Idade")
 let profissao = prompt("Profissão")
 
-alert(`Olá ${nome1}, tudo bem? Sua profissão é ${profissao} e sua idade ${idade1}`);  //crase
+alert(`Olá ${nome1}, tudo bem? Sua profissão é ${profissao} e sua idade ${idade1}`);  //crase não aspas para essa formataçao
+
+//Livro MODERN JAVASCRIPT
+
+
+/* Operadores:
+Artiméticos: Igual Python
+
+Number(prompt())  ,  parseFloat ,  parseInt ou String
+*/
