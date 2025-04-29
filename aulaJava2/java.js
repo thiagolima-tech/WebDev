@@ -23,7 +23,7 @@ else {
 
 nome === "Caio" ? console.log("É você?") : console.log("Não é você")  // ? = se sim  , : = se não
 
-//&& e    || ou    ! não
+//  && e    || ou    ! não
 
 
 login = prompt("Digite seu nome")
